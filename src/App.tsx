@@ -1,8 +1,9 @@
-
 function App() {
   return (
-    <div>App</div>
-  )
+    <div>
+      <h1>🚀 Crypto Dash</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
